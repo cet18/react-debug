@@ -1,0 +1,9 @@
+.logoCineAr img {
+  height: 40px;
+  margin: 40px;
+}
+
+.logoCineAr ul {
+  display: flex;
+  justify-content: center;
+}
